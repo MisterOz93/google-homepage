@@ -3,7 +3,7 @@ This is my first project! Recreating the google front page. Good luck me!
 
 Some of the Things I learned:
 
-span= Wow so useful! basically <div> without breaking things up.
+span= Wow so useful! basically div without breaking things up.
 &nbsp = Also very useful! Adding a space wherever 
 Getting a lot better at basic syntax/layout. 
 Super important that span is inline, and so for stuff like text-align to work
